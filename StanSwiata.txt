@@ -1,0 +1,72 @@
+51
+47
+Lis 3 50 7 8 7 9
+Wilk 9 50 14 18 14 19
+Owca 4 50 18 1 18 0
+Owca 10 50 15 17 16 17
+Czlowiek 8 50 5 5 5 4 4
+Zolw 2 50 6 18 7 18
+Trawa 0 50 17 8 17 8
+Mlecz 0 50 19 7 19 7
+Jagody 99 50 18 4 18 4
+Mlecz 0 48 19 8 19 8
+Jagody 99 46 19 4 19 4
+Mlecz 0 41 18 7 18 7
+Mlecz 0 40 19 6 19 6
+Mlecz 0 34 19 9 19 9
+Mlecz 0 33 19 10 19 10
+Mlecz 0 32 17 7 17 7
+Mlecz 0 31 18 10 18 10
+Mlecz 0 31 17 6 17 6
+Mlecz 0 29 19 5 19 5
+Mlecz 0 28 18 5 18 5
+Mlecz 0 27 18 8 18 8
+Mlecz 0 27 17 10 17 10
+Mlecz 0 27 7 4 7 4
+Mlecz 0 25 17 5 17 5
+Mlecz 0 24 17 9 17 9
+Jagody 99 23 19 3 19 3
+Mlecz 0 23 16 6 16 6
+Mlecz 0 23 16 10 16 10
+Mlecz 0 22 18 11 18 11
+Mlecz 0 22 17 11 17 11
+Mlecz 0 21 18 6 18 6
+Mlecz 0 18 16 7 16 7
+Mlecz 0 15 17 12 17 12
+Mlecz 0 12 18 9 18 9
+Trawa 0 11 16 8 16 8
+Mlecz 0 11 19 11 19 11
+Mlecz 0 11 15 10 15 10
+Jagody 99 10 18 3 18 3
+Mlecz 0 10 15 7 15 7
+Trawa 0 10 16 9 16 9
+Mlecz 0 8 19 12 19 12
+Mlecz 0 7 15 8 15 8
+Mlecz 0 5 3 6 3 6
+Mlecz 0 4 18 12 18 12
+Mlecz 0 4 14 8 14 8
+Mlecz 0 3 6 3 6 3
+Mlecz 0 3 17 4 17 4
+0
+0
+20
+Tura nr 40 na polu: (15,10) wyrosla roslina: Mlecz.
+Tura nr 41 na polu: (9,3) Czlowiek zjada Mlecz.
+Tura nr 41 na polu: (18,3) wyrosla roslina: Jagody.
+Tura nr 41 na polu: (5,3) wyrosla roslina: Mlecz.
+Tura nr 41 na polu: (15,7) wyrosla roslina: Mlecz.
+Tura nr 41 na polu: (16,9) wyrosla roslina: Trawa.
+Tura nr 43 na polu: (19,12) wyrosla roslina: Mlecz.
+Tura nr 44 na polu: (6,3) Czlowiek zjada Mlecz.
+Tura nr 44 na polu: (15,8) wyrosla roslina: Mlecz.
+Tura nr 45 na polu: (5,3) Czlowiek zjada Mlecz.
+Tura nr 46 na polu: (4,3) Czlowiek zjada Mlecz.
+Tura nr 46 na polu: (3,6) wyrosla roslina: Mlecz.
+Tura nr 47 na polu: (18,12) wyrosla roslina: Mlecz.
+Tura nr 47 na polu: (14,8) wyrosla roslina: Mlecz.
+Tura nr 48 na polu: (5,4) Czlowiek zjada Mlecz.
+Tura nr 48 na polu: (6,3) wyrosla roslina: Mlecz.
+Tura nr 48 na polu: (17,4) wyrosla roslina: Mlecz.
+Tura nr 48 na polu: (6,6) wyrosla roslina: Mlecz.
+Tura nr 49 na polu: (5,5) Czlowiek zjada Mlecz.
+Tura nr 49 na polu: (5,4) wyrosla roslina: Mlecz.
